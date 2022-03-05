@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DataExtractor": {
+      "commandName": "Project",
+      "commandLineArgs": "DataExtractor_Example_Input.csv 2"
+    }
+  }
+}
